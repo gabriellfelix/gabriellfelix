@@ -5,7 +5,7 @@ Stats and most used languages
 -->
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellfelix&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellfelix&hide=Jupyter%20Notebook,Makefile&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellfelix&hide=Jupyter%20Notebook,Makefile,HTML,css,Handlebars,shell,procfile&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 
 <!---
@@ -40,7 +40,7 @@ Icons
 Myself
 -->
 ## About me
-I'm a Computer Science student at [Federal University of Ceará](https://www.ufc.br/) and a Data Scientist intern at [Systems and Databases Laboratory - LSBD](https://lsbd.ufc.br/).
+I'm a Computer Science student at [Federal University of Ceará](https://www.ufc.br/) and a Data Science intern at [Systems and Databases Laboratory - LSBD](https://lsbd.ufc.br/).
 
 
 <!---
