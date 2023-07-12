@@ -40,7 +40,7 @@ Icons
 Myself
 -->
 ## About me
-I'm a Computer Science student at [Federal University of Ceará](https://www.ufc.br/) and a Data Science intern at [Systems and Databases Laboratory - LSBD](https://lsbd.ufc.br/).
+I'm a Computer Science student at [Federal University of Ceará - UFC](https://www.ufc.br/) and a Data Science intern at [Systems and Databases Laboratory - LSBD](https://lsbd.ufc.br/).
 
 
 <!---
